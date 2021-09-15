@@ -7,6 +7,7 @@
     <link rel="alternate" href="https://papa31.github.io/hm/blog"/>
     <subtitle>hm Blog</subtitle>
     <icon>https://papa31.github.io/hm/img/favicon.ico</icon>
+    <rights>Copyright © 2021 hm</rights>
     <entry>
         <title type="html"><![CDATA[Docusaurus: Test & Build]]></title>
         <id>Docusaurus: Test &amp; Build</id>
