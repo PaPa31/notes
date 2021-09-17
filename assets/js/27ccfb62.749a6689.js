@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[12743],{40565:function(a){a.exports=JSON.parse('{"allTagsPath":"/hm/blog/tags","slug":"/hm/blog/tags/facebook","name":"facebook","count":1,"permalink":"/hm/blog/tags/facebook"}')}}]);
